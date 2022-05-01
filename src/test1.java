@@ -4,5 +4,8 @@ public class test1 {
         System.out.println(test1.class.getClassLoader().getParent());
         System.out.println(test1.class.getClassLoader().getParent().getParent());
         System.out.println("你好");
+
+
+        System.out.println("master test");
     }
 }
